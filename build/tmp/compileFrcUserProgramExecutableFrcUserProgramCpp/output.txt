@@ -1,0 +1,143 @@
+See file:///C:/Users/coopt/Documents/ThatOneTeam2019/2018Robot/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramExecutableFrcUserProgramCpp.
+compiling Information.h successful.
+
+compiling RobotMap.h successful.
+
+compiling RobotDriverStation.cpp successful.
+
+compiling RobotDriverStation.h successful.
+
+compiling OperatorInterface.h successful.
+
+compiling ControllerInterface.h successful.
+
+compiling ArmManipulator.cpp successful.
+
+compiling CubeManipulator.cpp successful.
+
+compiling Intake.cpp successful.
+
+compiling CubeManipulator.h successful.
+
+compiling TankDrive.cpp successful.
+
+compiling Robot.cpp successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Autonomous/Autonomous.h:13:0,
+                 from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Objects\Robot.cpp:8:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling TankDrive.h successful.
+
+compiling Intents.h successful.
+
+compiling AlongTheSide.cpp successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Autonomous/Autonomous.h:13:0,
+                 from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Autonomous\AlongTheSide.cpp:8:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling AdvancedTrapMove.cpp successful.
+
+compiling Autonomous.h successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Autonomous\Autonomous.h:13:0:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling AroundTheBack.cpp successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Autonomous/Autonomous.h:13:0,
+                 from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Autonomous\AroundTheBack.cpp:8:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling AdvancedTrapMove.h successful.
+
+compiling CrossBaseLine.cpp successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Autonomous/Autonomous.h:13:0,
+                 from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Autonomous\CrossBaseLine.cpp:7:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling Autonomous.cpp successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Autonomous/Autonomous.h:13:0,
+                 from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Autonomous\Autonomous.cpp:8:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling Intents.cpp successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Autonomous/Autonomous.h:13:0,
+                 from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Intents.cpp:8:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling CubeToSwitch.cpp successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Autonomous/Autonomous.h:13:0,
+                 from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Autonomous\CubeToSwitch.cpp:8:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling CalculateMovement.cpp successful.
+
+compiling CalculateMovement.h successful.
+
+compiling TrapezoidalMove.cpp successful.
+
+compiling TrapezoidalMove.h successful.
+
+compiling ExchangeVision.cpp successful.
+
+compiling ExecuteMovements.cpp successful.
+
+compiling ExchangeVision.h successful.
+
+compiling ExecuteMovements.h successful.
+
+compiling Teleop.h successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Teleop.h:9:0:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling CubeVision.cpp successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Vision\CubeVision.cpp:8:0:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling Teleop.cpp successful.
+In file included from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Teleop.h:9:0,
+                 from C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Teleop.cpp:8:
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp/Services/Vision/CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling CubeVision.h successful.
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Vision\CubeVision.h:25:2: warning: 'typedef' was ignored in this declaration
+  };
+  ^
+
+compiling WeaponizedTranspose.h successful.
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Vision\WeaponizedTranspose.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^
+
+compiling WeaponizedTranspose.cpp successful.
+
+compiling WeaponizedGRIP.h successful.
+C:\Users\coopt\Documents\ThatOneTeam2019\2018Robot\src\main\cpp\Services\Vision\WeaponizedGRIP.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^
+
+compiling WeaponizedGRIP.cpp successful.
+
+compiling Lift.cpp successful.
+
+Finished compileFrcUserProgramExecutableFrcUserProgramCpp, see full log file:///C:/Users/coopt/Documents/ThatOneTeam2019/2018Robot/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt.

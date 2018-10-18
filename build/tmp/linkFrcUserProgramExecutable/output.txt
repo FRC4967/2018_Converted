@@ -1,0 +1,4 @@
+See file:///C:/Users/coopt/Documents/ThatOneTeam2019/2018Robot/build/tmp/linkFrcUserProgramExecutable/output.txt for all output for linkFrcUserProgramExecutable.
+linking frcUserProgram successful.
+
+Finished linkFrcUserProgramExecutable, see full log file:///C:/Users/coopt/Documents/ThatOneTeam2019/2018Robot/build/tmp/linkFrcUserProgramExecutable/output.txt.
